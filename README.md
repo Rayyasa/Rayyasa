@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am a 12th grade student at a vocational high school majoring in software engineering, currently I am studying web and application development.
+# About Me:
+I am a 12th grade student at a vocational high school, currently I am studying web and application development.
 
 
 ## 🌐 Socials:
